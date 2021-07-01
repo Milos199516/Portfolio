@@ -1,0 +1,145 @@
+
+    *** The Milos ***
+
+ --- Contents (Personal Portfolio Template) ---
+
+1. Aside Navbar
+
+    - logo
+
+      Nav       
+    - icon (fa fa-home) font Awesome Icon         Home
+    - icon (fa fa-user) font Awesome Icon         About
+    - icon (fa fa-list) font Awesome Icon         Service
+    - icon (fa fa-briefcase) font Awesome Icon    Portfolio
+    - icon (fa fa-envelope) font Awesome Icon     Blog
+    - icon (fa fa-comments) font Awesome Icon     Contact
+
+    - copyright text
+
+1. Home Section
+
+    - Photo
+    - I'm a Web Developer
+    
+    - Social Links
+    - icon (fa fa-twitter) font Awesome Icon 
+    - icon (fa fa-facebook) font Awesome Icon 
+    - icon (fa fa-instagram) font Awesome Icon 
+    - icon (fa fa-linkedin) font Awesome Icon 
+
+2. About Me
+   
+   - About Me
+   - I'm Starcevic Milos the Web Developer
+   - Hi! My name is Starcevic Milos. I am a Web Developer, and I'm very passionate and dedicated 
+     to my work. With 2 years experience as a professional Web developer, I have acquired 
+	 the skills and knowledge necessary to make your project a success. I enjoy every step of the
+	 design process, from discussion and collaboration. 
+     
+     Personal-info
+   - Birthday : 5 June 1995
+   - Age : 25
+   - Email : milostarc19@gmail.com
+   - Phone : +381 64 561 71 71
+   - City : Kragujevac
+   - Freelance : Available
+
+     Button
+   - Downolad, Hire Me
+
+     Skills
+   - HTML 86%
+   - CSS 76%
+   - Javascript 70%
+   - Bootstrap 80%
+   - PHP 68%
+   - MySQL 60%
+
+     Education
+   - 2014 - 2019
+   - Mechanical Engineeer
+   - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non 
+     nisi semper, et elementum lorem ornare.
+
+   - 2014 - 2019
+   - Studied At  Faculty of Engineeering's Sciences's
+   - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non 
+     nisi semper, et elementum lorem ornare.
+
+     Experience
+   - 2018 - 2020
+   - Backend Developer
+   - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non 
+     nisi semper, et elementum lorem ornare.
+
+   - 2018 - 2020
+   - Backend Developer
+   - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non 
+     nisi semper, et elementum lorem ornare.
+
+3. Services
+
+   - icon : fa fa-laptop (font awesome icon)
+   - Web Design
+   - Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum.
+
+   - icon : fa fa-photo (font awesome icon)
+   - Photography
+   - Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum.
+
+   - icon : fa fa-code (font awesome icon)
+   - Web Development
+   - Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum.
+
+   - icon : fa fa-rocket (font awesome icon)
+   - Seo Optimization
+   - Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum.
+
+   - icon : fa fa-paint-brush (font awesome icon)
+   - Logo Design
+   - Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum.
+
+4. Portfolio
+
+   - All, Web, Design, Photography, Laravel
+
+
+5. Blog
+
+   - 30 jul 2020
+   - Responsive Web Design
+   - Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo 
+     quam, eum alias id, repellendus magni, quas.
+   - Tags : Html , css
+
+   - 30 jul 2020
+   - Creative Slideshow
+   - Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo 
+     quam, eum alias id, repellendus magni, quas.
+   - Tags : Html , Javascript
+
+   - 30 jul 2020
+   - Image Gallery Lightbox
+   - Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo 
+     quam, eum alias id, repellendus magni, quas.
+   - Tags : Javascript
+
+6. Contact Me
+
+   - icon : fa fa-phone (font awesome icon)
+   - Call Me On
+   - +381 64 561 71 71
+
+   - icon : fa fa-map-marker (font awesome icon)
+   - Office
+   - +381 64 561 71 71
+
+   - icon : fa fa-envelope (font awesome icon)
+   - Email
+   - milostarc19@gmail.com
+
+     Form Field
+   - Name, Email, Subject, Message, Button (Send Message) 
+
+
